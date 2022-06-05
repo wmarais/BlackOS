@@ -1,7 +1,7 @@
 #pragma once
 
-#include "BOS/Memory.hpp"
-#include "BOS/Status.hpp"
+#include "BOS/Core/Memory.hpp"
+#include "BOS/Core/Status.hpp"
 
 
 namespace BOS

@@ -1,6 +1,6 @@
 #pragma once
 
-#include "BOS/Status.hpp"
+#include "BOS/Core/Status.hpp"
 
 namespace BOS
 {

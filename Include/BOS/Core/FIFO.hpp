@@ -1,7 +1,7 @@
 #pragma once
 
-#include "BOS/Array.hpp"
-#include "BOS/Status.hpp"
+#include "BOS/Core/Array.hpp"
+#include "BOS/Core/Status.hpp"
 
 namespace BOS
 {

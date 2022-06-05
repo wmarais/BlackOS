@@ -1,4 +1,4 @@
-#include "BOS/FIFO.hpp"
+#include "BOS/Core/FIFO.hpp"
 
 #include <iostream>
 
@@ -23,7 +23,7 @@ int main(int argc, char* argv[])
   fifo.pop(status, data);
   std::cout << data << std::endl;
 
-  fifo.terminate(status);
+  fifo.terminate(status); 
     
   return 0;
 }

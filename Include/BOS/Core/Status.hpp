@@ -15,8 +15,5 @@ namespace BOS
     UpperBound = 5
   };
 
-  bool Passed(Status status)
-  {
-    return (status == Status::Passed);
-  }
+  bool Passed(Status status);
 }
